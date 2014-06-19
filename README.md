@@ -6,7 +6,10 @@ Many people take their online privacy very seriously, concerned about who may be
 Research and briefly describe what the TOR network is and how it works. (2 marks)
 
 ```
-The TOR (The Onion Router) network is a way of browsing the web almost completely anonamously. To do this the connection is bounced around the world through volunteer's computers until finally reaching the webpage. There are also several websites that can only be acessed through TOR such as the recently shut down Silk Road, where people could buy and sell illegal items.
+The TOR (The Onion Router) network is a way of browsing the web almost completely anonamously.
+To do this the connection is bounced around the world through volunteer's computers until finally reaching the webpage.
+There are also several websites that can only be acessed through TOR such 
+as the recently shut down Silk Road, where people could buy and sell illegal items.
 ```
 
 Discuss the risks and benefits of such a network. (6 marks)
