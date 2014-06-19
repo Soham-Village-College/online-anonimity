@@ -6,7 +6,7 @@ Many people take their online privacy very seriously, concerned about who may be
 Research and briefly describe what the TOR network is and how it works. (2 marks)
 
 ```
-answer here
+The TOR network is a way of enabling online anonymity. Using TOR makes it more difficult to trace back internet activity to the user.
 ```
 
 Discuss the risks and benefits of such a network. (6 marks)
@@ -17,5 +17,5 @@ Discuss the risks and benefits of such a network. (6 marks)
 
 
 ```
-answer here
+Tor allows users to be anonmous and keep their online activity private which some people use to protect themselves and stop people spying on them and reading their data. Although some people use it for the wrong reasons.
 ```
