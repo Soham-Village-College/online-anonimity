@@ -17,5 +17,5 @@ Discuss the risks and benefits of such a network. (6 marks)
 
 
 ```
-However these type of network runs a few risks as well as just encrypting your information. One of these risks is
+However these type of network runs a few risks as well as just encrypting your information. In light of this news, nearly all online communication services have become suspect, including Tor.
 ```
