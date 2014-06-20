@@ -17,5 +17,5 @@ Discuss the risks and benefits of such a network. (6 marks)
 
 
 ```
-However these type of network runs a few risks as well as just encrypting your information. In light of this news, nearly all online communication services have become suspect, including Tor.
+However these type of network runs a few risks as well as just encrypting your information. In light of this news, nearly all online communication services have become suspect, including Tor. Also this TOR network does has its bad influeneces because people such as paedophiles can easily be untraceable and can be tracked so this makes it really hard to catch any paedophiles
 ```
