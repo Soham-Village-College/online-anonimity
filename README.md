@@ -17,5 +17,4 @@ Discuss the risks and benefits of such a network. (6 marks)
 
 
 ```
-Tor allows users to be anonmous and keep their online activity private which some people use to protect themselves and stop people spying on them and reading their data. Although some people use it for the wrong reasons.
-```
+Tor allows users to be anonmous and keep their online activity private which some people use to protect themselves and stop people spying on them and reading their data. For example celebrities and famous people may want to use TOR to keep themsleves private. People in a communist country may also want to use it as their internet is controlled by the government or groups to control what people can see/access. TOR and the dark web allow people to look at what parts of the web they want without it being controlled. Although,some poeple use it for the wrong reasons. Criminals use the dark web as a way of avoiding being detected whilst performing illegal things. For example there have been recent stories of paedophilles using the dark web to trade indecent photos and the website 'the silk road' being used to buy drugs, weapons and other illegal goods. There are mixed opinions on TOR becuase of these advantages and disadvantages.
