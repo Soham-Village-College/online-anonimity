@@ -6,7 +6,7 @@ Many people take their online privacy very seriously, concerned about who may be
 Research and briefly describe what the TOR network is and how it works. (2 marks)
 
 ```
-answer here
+The tor network is a free piece of software which allows people to search things without being watched. It consists of over 5000 relays to make sure their online history is not being traced back to them, it can still be seen that someone is searching things up but not who has done it. It was initally used for users privacy but is now being used for illegal purposes such as paedophilia and criminal actions. It has therefore been called the "Dark Net"
 ```
 
 Discuss the risks and benefits of such a network. (6 marks)
@@ -17,5 +17,5 @@ Discuss the risks and benefits of such a network. (6 marks)
 
 
 ```
-answer here
+Online anonimity has advantages such as; some use it because they don't want to be spyed on. China is an example, the government own the news and therefore control what is in the newspaper and what isn't. This means that if they don't want things shown they just say no. China have blocked certain crisises and it can't be searched, if people want to search this then they use the "Dark Net" so they can search it without being tracked and so they are able to research it. This has allowed people to learn about their native country or that country itself. There are disadvantages such as paedophiles, they have been able to do illegal acts without being caught, they can sell things without anyone being able to trace it back to them.
 ```
